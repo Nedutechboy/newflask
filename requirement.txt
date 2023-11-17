@@ -1,0 +1,13 @@
+==================================
+
+This are the basic requirement to buid the flask APP
+
+1) flask_App
+
+2) xAMPP
+
+3) MYSQL
+
+4) PYTHON3 -PIP
+
+===================================
